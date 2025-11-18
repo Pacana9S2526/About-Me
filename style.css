@@ -1,0 +1,26 @@
+
+body {
+         background-image:url(https://depositphotos-blog.s3.eu-west-1.amazonaws.com/uploads/2017/07/Soothing-nature-backgrounds-2.jpg);
+         font-family: "BBH Sans Hegarty", sans-serif;
+         }
+
+         .container {
+         box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.78);
+
+         }
+         .col-md-6 {
+                background-color: lightblue;
+                padding: 5px;
+                column-gap: 8px;
+        }
+         img {
+              width: 75px;
+        }
+         .hero-image { 
+              background-image: url(https://chat.google.com/u/0/api/get_attachment_url?url_type=FIFE_URL&content_type=image%2Fjpeg&attachment_token=AOo0EEUD49YhQo%2B5mvMbW0eYNWpGiiEiwluay%2B3opWtALypK1fXJohDhHMRvsQZWKYSTtRqE23llzwXyyq0NhCA1V%2BZCVwuaGDt9JQubo6YU4oozjln8V02pqL%2B8n1Pw%2Bbtj4YYzH5tS5VAFzeVu3HjxUHlXJD%2BgmmLc22Bim24zms0Kq1cD7S7qfU4Cqck17XgMDLSoDykjkGFWt3dFYPK6TUARujiINIO9%2FzXwlbHCsE1ZOFYwEZypeqNSy9T4U0ow1i9MCrcQkBOklpT9RNVzxqryts3%2BUFAUdY0dIofAl9NhnevtUdtIxlWfSDP8pGuZ%2B8v4eG22RaJkj4p6b741YJzJNnOa1f%2BZxV6l6DBZDZqLOQiiYk215RrzX0EhrNt4Qk3nuwWVdtkPWAxq1HNBvM5q9AjjuB47xillxm5szbtkTBc2sccPsU0XhCp1fPH%2F2utdTbV6ksWq6Mz585tQ9gpHc67yPKIDdoiYCmUCuYdjESVNISoHT0sUyF8Zrfjg3qcLtXb5f8kIP5sV6GtNtftLAHH1KYZJuGw%2FcTG1GSfY0cr6FgYoJQWXI6cRF6Y%2FzJWACwWkC%2B3xNyjCa6m2gMNjOmiA4q8FH9k1iQBgdGRGCCoterazt6Q%3D&allow_caching=true&sz=w1920-h948-rw);
+
+         }
+
+
+                
+         
